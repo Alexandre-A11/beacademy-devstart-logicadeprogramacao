@@ -1,0 +1,22 @@
+Algoritmo troca de pneu.
+
+1) Pegue o triângulo do carro;
+2) Coloque o triângulo a pelo menos 30 metrôs do carro na direção contrária do carro.
+3) Verifique se possui estepe no carro;
+4) Verifique se o carro está em um local estável;
+5) Pegue o estepe;
+6) Pegue o macaco;
+7) Coloque o macaco sob a lataria do carro, ao lado do pneu furado;
+8) Encaixar o macaco na canaleta;
+9) Levante o macaco até que o carro pareça apoiado de forma firme, sem levantá-lo do chão.
+10) Confira se o macaco está em um ângulo de 90 graus ao chão.
+11) Pegue a chave de roda;
+12) Encaixe a chave de roda no pneu que deve ser trocado;
+13) Em sentido anti-horário, gire a chave de roda e deixe os parafusos soltos, sem desprendê-los de maneira total;
+14) Levante mais o carro até que o pneu fique totalmente suspenso;
+15) Continue a girar os parafusos, até que estejam soltos o suficiente para serem retirados;
+16) Remova o pneu e coloque-o sob o carro;
+17) Encaixar o estepe no eixo;
+18) Posicione os parafusos nos lugares adequados;
+19) Com a chave de roda, dê uma volta em cada um dos parafusos;
+20) Desça o veículo e retire o macaco.
